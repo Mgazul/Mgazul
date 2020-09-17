@@ -14,5 +14,5 @@
 
 ---
 
-<img align="left" alt="Shawiiz_z's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgazul&show_icons=true&hide_border=true&theme=radical" />
-<img align="right" alt="Shawiiz_z's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mgazul&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Mgazul Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgazul&show_icons=true&hide_border=true&theme=radical" />
+<img align="right" alt="Mgazul Github Stats" src="https://github-readme-stats.vercel.app/api?username=mgazul&show_icons=true&hide_border=true&theme=radical" />
