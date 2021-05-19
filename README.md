@@ -5,6 +5,10 @@
 - :star: I'm working on a project called [**Mohist**](https://github.com/Mohist-Community/Mohist) 
   - This project is a combination of Forge + Spigot/Paper API to make Minecraft plugins and mods working together.
 
+### What are you currently doing?
+
+- Work hard to make money to pay off nearly 30,000 RMB (4600+ USD) in debt
+
 ### What i'm using to code ?
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
