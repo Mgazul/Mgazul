@@ -13,6 +13,3 @@
 <br />
 
 ---
-
-<img align="left" alt="Mgazul Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgazul&show_icons=true&hide_border=true&theme=radical" />
-<a href="https://githubroast.dev/u/Mgazul"><img src="https://githubroast.dev/api/card/Mgazul?theme=dark" alt="GitHub Roast" width="600" /></a>
